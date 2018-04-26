@@ -9,7 +9,7 @@ Made in 2013 and written in norwegian.
 
 ## Getting Started
 
-Open this [link](run_game.html). You can also download the repository and open run_game.html in you browser.
+Open this [link](https://rawgit.com/gimse/GravitySimulationGame/master/run_game.html). You can also download the repository and open run_game.html in you browser.
 
 ### Prerequisites
 
