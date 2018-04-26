@@ -9,7 +9,7 @@ Made in 2013 and written in norwegian.
 
 ## Getting Started
 
-Open this [link](https://rawgit.com/gimse/GravitySimulationGame/master/run_game.html). You can also download the repository and open run_game.html in you browser.
+Open this [link](https://rawgit.com/gimse/SudokuSolver/master/run_game.html). You can also download the repository and open run_game.html in you browser.
 
 ### Prerequisites
 
@@ -17,6 +17,6 @@ Flash Professional too edit.
 
 ## Authors
 
-* **Håkon Gimse** - *Initial work* - [Gimse](https://github.com/gimse)
+* **HÃ¥kon Gimse** - *Initial work* - [Gimse](https://github.com/gimse)
 
 
