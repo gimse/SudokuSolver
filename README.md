@@ -13,10 +13,10 @@ Open this [link](run_game.html). You can also download the repository and open r
 
 ### Prerequisites
 
-Flash Professional
+Flash Professional to edit.
 
 ## Authors
 
-* **Håkon Gimse** - *Initial work* - [gimse](https://github.com/gimse)
+* **Håkon Gimse** - *Initial work* - [Gimse](https://github.com/gimse)
 
 
