@@ -13,7 +13,7 @@ Open this [link](run_game.html). You can also download the repository and open r
 
 ### Prerequisites
 
-Flash Professional to edit.
+Flash Professional too edit.
 
 ## Authors
 
