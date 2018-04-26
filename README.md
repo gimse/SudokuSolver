@@ -5,7 +5,7 @@ Made in 2013 and written in norwegian.
 
 ## Screencapture
 
-![Demo image](demo1.png)
+![Demo image](demo1.jpg)
 
 ## Getting Started
 
